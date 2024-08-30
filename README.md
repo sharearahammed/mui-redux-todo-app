@@ -48,7 +48,7 @@ A robust task management application built with **React**, **Vite**, and **Mater
    npm run dev
 
 ### Usage
-- **Add Task:**Enter a task in the input field and click "Add".
+- **Add Task:** Enter a task in the input field and click "Add".
 - **Toggle Completion:** Click on the checkbox next to a task to mark it as complete or incomplete.
 - **Remove Task:** Click the trash icon to delete a task.
 
