@@ -36,13 +36,16 @@ A robust task management application built with **React**, **Vite**, and **Mater
    git clone https://github.com/your-username/task-manager-redux.git
 
 2. **Navigate to the project directory:**
-   ```cd task-manager-redux
+   ```bash
+   cd task-manager-redux
 
 3. **Install dependencies:**
-   ```npm install
+   ```bash
+   npm install
 
 4. **Run the development server:**
-   ```npm run dev
+   ```bash
+   npm run dev
 
 ### Usage
 - **Add Task:**Enter a task in the input field and click "Add".
